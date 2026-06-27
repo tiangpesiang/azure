@@ -1,4 +1,4 @@
-# Create storage account uisng Terraform 
+# Create storage account using Terraform 
 
 # main.tf
 terraform {
